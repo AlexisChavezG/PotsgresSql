@@ -12,3 +12,6 @@ Al instalar se escribe una contraseña para poder acceder a nuestro servidor de 
 Una vez instalado desde nuestra SQL Shell podemos acceder a nuestro servidor
 
 <img width="400" alt="Captura de Pantalla 2022-06-13 a la(s) 19 46 49" src="https://user-images.githubusercontent.com/99348169/173470925-86ed95ea-8c4d-4614-8642-1a86d99d2d60.png">
+
+
+**Comando \l**
