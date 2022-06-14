@@ -14,8 +14,8 @@ Una vez instalado desde nuestra SQL Shell podemos acceder a nuestro servidor
 <img width="400" alt="Captura de Pantalla 2022-06-13 a la(s) 19 46 49" src="https://user-images.githubusercontent.com/99348169/173470925-86ed95ea-8c4d-4614-8642-1a86d99d2d60.png">
 
 
-#Comando \l
-El comando \l nos sirve para listar las bases de datos que tenemos en nuestro servidor
+# Comando \l  
+El comando `\l` nos sirve para listar las bases de datos que tenemos en nuestro servidor
 <img width="400" alt="Captura de Pantalla 2022-06-13 a la(s) 19 57 27 1" src="https://user-images.githubusercontent.com/99348169/173471313-e06d94a8-19f2-47ed-950a-4c62faa4ce29.png">
 
 #Creación de una base de datos
