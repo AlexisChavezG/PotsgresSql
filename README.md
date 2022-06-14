@@ -20,7 +20,7 @@ El comando \l nos sirve para listar las bases de datos que tenemos en nuestro se
 
 #Creación de una base de datos
 Se procede a crear una base de datos denominada **launchx_nodejs** para esto ejecutaremos el comando  
-`create database lauchx_nodejs;` el punto y coma es muy importante para poder terminar la instrucción
+`create database lauchx_nodejs;`  el punto y coma es muy importante para poder terminar la instrucción
 <img width="601" alt="Captura de Pantalla 2022-06-13 a la(s) 20 03 02" src="https://user-images.githubusercontent.com/99348169/173471848-653935c7-361e-44f1-ad9a-4c56a1a9e333.png">
 
 Vuelvo a ejecutar el comando `\l` se muestra la nueva base de datos recién creada
