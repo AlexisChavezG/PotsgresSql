@@ -45,10 +45,20 @@ En el ejemplo anterior nos devuelve que la base de datos no contiene ningúna re
 
 # Crear una nueva tabla  
 Para crear una nueva tabla dentro de la base de datos que ya tenemos selecciona es con el comando  
+
 `CREATE TABLE explorers(id bigserial, username varchar(50));`  
+
 el nombre de la tabla sera *explorers*  y que se encuentra entre parentesis son los campos que contendra nuestra tabla   
 
 <img width="580" alt="Captura de Pantalla 2022-06-13 a la(s) 20 16 29" src="https://user-images.githubusercontent.com/99348169/173473008-42ca5f0f-4deb-4dfb-9398-a3d871c0ec63.png">  
 Volviendo a ejecutar el comando `\dt` obtenemos la información    
 
-<img width="574" alt="Captura de Pantalla 2022-06-13 a la(s) 20 17 25" src="https://user-images.githubusercontent.com/99348169/173473616-8a7ca467-0b95-4151-a8e6-936a683334e4.png">
+<img width="574" alt="Captura de Pantalla 2022-06-13 a la(s) 20 17 25" src="https://user-images.githubusercontent.com/99348169/173473616-8a7ca467-0b95-4151-a8e6-936a683334e4.png">  
+
+# Creando una nuevo registro
+Las tablas almacenan registros para esto es necesario el comando  
+
+`insert into explorers(id, username) values (1, 'Explorer1');`  
+
+<img width="571" alt="Captura de Pantalla 2022-06-13 a la(s) 20 29 44" src="https://user-images.githubusercontent.com/99348169/173474263-56b2f2bc-f9b2-4484-8a51-4b96263c7218.png">
+
