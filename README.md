@@ -29,4 +29,13 @@ Vuelvo a ejecutar el comando `\l` se muestra la nueva base de datos recién crea
 
 Seleccionamos la base lauchx_nodejs recién creada con el comando  
 `\c launchx_nodejs;`  
+<img width="577" alt="Captura de Pantalla 2022-06-13 a la(s) 20 10 33" src="https://user-images.githubusercontent.com/99348169/173472488-f6b41198-73c4-4135-823c-694ed48a5930.png">
+
 Con este comando sabemos que podemos trabajar sobre la base que estamos seleccionando  
+
+# Uso del comando \dt  
+Con el comnado `\dt` una vez que tenemos selecciona la base de datos podemos desplegar las tablas que contiene la base.
+<img width="579" alt="Captura de Pantalla 2022-06-13 a la(s) 20 11 36" src="https://user-images.githubusercontent.com/99348169/173472554-dba1f1cd-2a7e-4d93-8eb9-7c1a50f99b2c.png">  
+En el ejemplo anterior nos devuelve que la base de datos no contiene ningúna relación, esto es porque aún no tiene ninguna tabla  
+
+
