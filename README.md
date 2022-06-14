@@ -25,4 +25,8 @@ Se procede a crear una base de datos denominada **launchx_nodejs** para esto eje
 
 Vuelvo a ejecutar el comando `\l` se muestra la nueva base de datos recién creada
 
-<img width="575" alt="Captura de Pantalla 2022-06-13 a la(s) 20 04 15" src="https://user-images.githubusercontent.com/99348169/173471989-1e11b621-8cc5-416e-9107-568799d1840a.png">
+<img width="575" alt="Captura de Pantalla 2022-06-13 a la(s) 20 04 15" src="https://user-images.githubusercontent.com/99348169/173471989-1e11b621-8cc5-416e-9107-568799d1840a.png">  
+
+Seleccionamos la base lauchx_nodejs recién creada con el comando  
+`\c launchx_nodejs;`  
+Con este comando sabemos que podemos trabajar sobre la base que estamos seleccionando  
