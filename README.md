@@ -69,4 +69,6 @@ El comando select se usa para seleccionar los registros de una tabla con el oper
 
 Ejemplo para selección de campos en especifico  
 
+`select id from explorers`  
+
 <img width="571" alt="Captura de Pantalla 2022-06-13 a la(s) 20 35 26" src="https://user-images.githubusercontent.com/99348169/173474806-e0333f53-96a6-44d2-864f-c7390f4f185a.png">
