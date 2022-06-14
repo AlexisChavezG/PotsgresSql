@@ -82,8 +82,12 @@ Con la clausula where podemos seleccionar un registro en especifico si nosotros 
 <img width="566" alt="Captura de Pantalla 2022-06-13 a la(s) 20 41 07" src="https://user-images.githubusercontent.com/99348169/173475422-adfa1293-80c5-457d-ac4c-45d8b7ca21b9.png">
 
 # Editar registros
-Existe el comando update que nos permite hacer actualizaciones sobre los registros de la tabla puede ser una actualización global en ese caso no llevara la clausula where o una actualización especifica  
+Existe el comando `update` que nos permite hacer actualizaciones sobre los registros de la tabla puede ser una actualización global en ese caso no llevara la clausula where o una actualización especifica  
 
 <img width="573" alt="Captura de Pantalla 2022-06-13 a la(s) 20 44 13" src="https://user-images.githubusercontent.com/99348169/173475734-a904309f-36cd-4b1c-80a8-0041a5a0d4c7.png">
 
+# Eliminar registros  
+Para eliminar registros tenemos el comando `delete` al igual que el update es posible eliminar un registro espeficio o una tabla con todos sus registros con y sin el clausura `where`  
+
+<img width="541" alt="Captura de Pantalla 2022-06-13 a la(s) 20 47 27" src="https://user-images.githubusercontent.com/99348169/173476098-8d149240-0189-46d7-b834-c274f670397b.png">
 
