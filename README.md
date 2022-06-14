@@ -62,3 +62,7 @@ Las tablas almacenan registros para esto es necesario el comando
 
 <img width="571" alt="Captura de Pantalla 2022-06-13 a la(s) 20 29 44" src="https://user-images.githubusercontent.com/99348169/173474263-56b2f2bc-f9b2-4484-8a51-4b96263c7218.png">
 
+# Comando select  
+El comando select se usa para seleccionar los registros de una tabla con el operador `*` nos devuelve todos los campos que tengan la tabla pero podemos seleccionar unicamente los campos que necesitemos  
+
+<img width="563" alt="Captura de Pantalla 2022-06-13 a la(s) 20 34 02" src="https://user-images.githubusercontent.com/99348169/173474655-374ceb49-4792-4452-a3a1-a6ee10e829a3.png">
