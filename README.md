@@ -72,3 +72,14 @@ Ejemplo para selección de campos en especifico
 `select id from explorers`  
 
 <img width="571" alt="Captura de Pantalla 2022-06-13 a la(s) 20 35 26" src="https://user-images.githubusercontent.com/99348169/173474806-e0333f53-96a6-44d2-864f-c7390f4f185a.png">
+
+# Clausula WHERE
+
+Con la clausula where podemos seleccionar un registro en especifico si nosotros difinimos el where debemos escribir que campos tomaremos de referencia en caso de no existir la clausula en el comando la tabla será afectada completa  
+
+`select * from explorers where id = 1;`  
+
+<img width="566" alt="Captura de Pantalla 2022-06-13 a la(s) 20 41 07" src="https://user-images.githubusercontent.com/99348169/173475422-adfa1293-80c5-457d-ac4c-45d8b7ca21b9.png">
+
+# Editar registros
+Existe el comando update que nos permite hacer actualizaciones con
