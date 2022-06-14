@@ -38,4 +38,9 @@ Con el comnado `\dt` una vez que tenemos selecciona la base de datos podemos des
 <img width="579" alt="Captura de Pantalla 2022-06-13 a la(s) 20 11 36" src="https://user-images.githubusercontent.com/99348169/173472554-dba1f1cd-2a7e-4d93-8eb9-7c1a50f99b2c.png">  
 En el ejemplo anterior nos devuelve que la base de datos no contiene ningúna relación, esto es porque aún no tiene ninguna tabla  
 
+# Crear una nueva tabla  
+Para crear una nueva tabla dentro de la base de datos que ya tenemos selecciona es con el comando  
+`CREATE TABLE explorers(id bigserial, username varchar(50));`  
+el nombre de la tabla sera *explorers*  y que se encuentra entre parentesis son los campos que contendra nuestra tabla 
+<img width="580" alt="Captura de Pantalla 2022-06-13 a la(s) 20 16 29" src="https://user-images.githubusercontent.com/99348169/173473008-42ca5f0f-4deb-4dfb-9398-a3d871c0ec63.png">
 
