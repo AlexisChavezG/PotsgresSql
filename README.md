@@ -18,7 +18,7 @@ Una vez instalado desde nuestra SQL Shell podemos acceder a nuestro servidor
 El comando `\l` nos sirve para listar las bases de datos que tenemos en nuestro servidor
 <img width="400" alt="Captura de Pantalla 2022-06-13 a la(s) 19 57 27 1" src="https://user-images.githubusercontent.com/99348169/173471313-e06d94a8-19f2-47ed-950a-4c62faa4ce29.png">
 
-#Creación de una base de datos
+# Creación de una base de datos  
 Se procede a crear una base de datos denominada **launchx_nodejs** para esto ejecutaremos el comando  
 `create database lauchx_nodejs;`  el punto y coma es muy importante para poder terminar la instrucción
 <img width="601" alt="Captura de Pantalla 2022-06-13 a la(s) 20 03 02" src="https://user-images.githubusercontent.com/99348169/173471848-653935c7-361e-44f1-ad9a-4c56a1a9e333.png">
